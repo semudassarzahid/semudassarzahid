@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudassar</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 - 🔭 I’m currently working as **Full Stack Developer**
 
